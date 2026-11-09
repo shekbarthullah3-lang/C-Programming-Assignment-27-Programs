@@ -1,4 +1,4 @@
-# C-Assignment-shek-barthullah
+# 27 C-Assignment-shek-barthullah
 Week 6 C Programming Assignment-shek barthullah
 
 This repository contains my C programming assignment programs.
