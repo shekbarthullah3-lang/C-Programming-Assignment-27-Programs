@@ -40,7 +40,7 @@ This repository contains my C programming assignment programs.
 ### Tools Used
 
 - Visual Studio Code
-- GCC Compiler
+- Online GDB Compiler
 
 ### Purpose
 
